@@ -1,3 +1,10 @@
+
+## ABOUT THIS FORK
+
+All credits go to kenshaw for his awesome project and to pwaller + rjeczalik for their PR here https://github.com/chromedp/chromedp/pull/77 that solved my issue. Unfortunately the PR was not merged and the forked code was abandoned so i'm just copy/pasting and fixing it up to work with current chromedp  master.
+
+
+
 # About chromedp [![Build Status][1]][2] [![Coverage Status][3]][4]
 
 Package chromedp is a faster, simpler way to drive browsers supporting the
