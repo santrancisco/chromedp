@@ -12,14 +12,14 @@ import (
 
 	"github.com/mailru/easyjson"
 
-	"github.com/chromedp/cdproto"
-	"github.com/chromedp/cdproto/cdp"
-	"github.com/chromedp/cdproto/css"
-	"github.com/chromedp/cdproto/dom"
-	"github.com/chromedp/cdproto/inspector"
-	"github.com/chromedp/cdproto/log"
-	"github.com/chromedp/cdproto/page"
-	"github.com/chromedp/cdproto/runtime"
+	"github.com/santrancisco/cdproto"
+	"github.com/santrancisco/cdproto/cdp"
+	"github.com/santrancisco/cdproto/css"
+	"github.com/santrancisco/cdproto/dom"
+	"github.com/santrancisco/cdproto/inspector"
+	"github.com/santrancisco/cdproto/log"
+	"github.com/santrancisco/cdproto/page"
+	"github.com/santrancisco/cdproto/runtime"
 
 	"github.com/santrancisco/chromedp/client"
 )

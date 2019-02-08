@@ -6,8 +6,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/chromedp/cdproto/cdp"
-	"github.com/chromedp/cdproto/input"
+	"github.com/santrancisco/cdproto/cdp"
+	"github.com/santrancisco/cdproto/input"
 )
 
 const (

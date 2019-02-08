@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/chromedp/cdproto/cdp"
-	"github.com/chromedp/cdproto/dom"
-	"github.com/chromedp/cdproto/input"
+	"github.com/santrancisco/cdproto/cdp"
+	"github.com/santrancisco/cdproto/dom"
+	"github.com/santrancisco/cdproto/input"
 
 	"github.com/santrancisco/chromedp/kb"
 )

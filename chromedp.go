@@ -14,7 +14,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/chromedp/cdproto/cdp"
+	"github.com/santrancisco/cdproto/cdp"
 
 	"github.com/santrancisco/chromedp/client"
 	"github.com/santrancisco/chromedp/runner"

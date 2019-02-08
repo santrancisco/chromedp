@@ -7,8 +7,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/chromedp/cdproto/cdp"
-	"github.com/chromedp/cdproto/dom"
+	"github.com/santrancisco/cdproto/cdp"
+	"github.com/santrancisco/cdproto/dom"
 )
 
 /*

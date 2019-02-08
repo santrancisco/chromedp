@@ -3,7 +3,7 @@ package chromedp
 import (
 	"testing"
 
-	"github.com/chromedp/cdproto/cdp"
+	"github.com/santrancisco/cdproto/cdp"
 )
 
 func TestWaitReady(t *testing.T) {

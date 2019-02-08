@@ -4,8 +4,8 @@ import (
 	"context"
 	"errors"
 
-	"github.com/chromedp/cdproto/cdp"
-	"github.com/chromedp/cdproto/page"
+	"github.com/santrancisco/cdproto/cdp"
+	"github.com/santrancisco/cdproto/page"
 )
 
 // Navigate navigates the current frame.
