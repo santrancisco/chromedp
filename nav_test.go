@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/santrancisco/cdproto/page"
+	"github.com/chromedp/cdproto/page"
 )
 
 func TestNavigate(t *testing.T) {
